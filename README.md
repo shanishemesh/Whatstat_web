@@ -1,43 +1,31 @@
-
 # Whatstat
 
+## Introduction:
 Statistical analysis for my group.
+The goal of the project is to develop an information system for analyzing correspondence in WhatsApp groups.
+To examine social dynamics, sentiment analysis and user behavior will collect data from WhatsApp group chats, including messages, images, videos and audio recordings, by uploading TXT files.
+thereby helping users better understand their communication patterns, improve their relationships and enhance their social interactions.
 
-### Getting Started with Create React App
+## How to start 
 
-This project was bootstrapped with [Create React App]
+required: `nodejs v18` and `sudo dnf install git-all` and `npm install -g npm@9.8.1` and `npm install --force`
+Then open cmd on your computer
 
-### Available Scripts
+#### step 1:
+unzip the `app_express.zip` or Take the link from Git: git@github.com:shanishemesh/Whatstat_web.git
 
+#### step 2:
+open new terminal or cmd inside your project folder and type this command `npm i` or `npm install` ,it will install all the packages & dependencies.
 In the project directory, you can run: `npm start`
 
-Runs the app in the development mode.\
+#### step 3:
+if you are using windows operating system then run this command `npm run dev` or `npm start` but if you run the server using `npm run dev` it will continuously restart the server whenever you make any changes in the code.
+
+but sometimes `npm run dev`  or `npm start` ot work on several operating system.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+#### Note:
+After starting the server, the system will automatically boot, you have to wait a little.
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔗 Links:
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shani-shemesh-547396242)
